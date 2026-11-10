@@ -1,3 +1,4 @@
+===== main.js =====
 const modal = document.querySelector("#modal");
 const addButton = document.getElementById("add-book");
 const closeModal = document.getElementById("close");
